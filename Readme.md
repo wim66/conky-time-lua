@@ -1,4 +1,4 @@
-#Conky displaying date & time in lua
+# Conky displaying date & time in lua
 ### Download fonts used
 - [Christmas time](http://www.dafont.com/christmas-time-2.font)
 - [Homestead](http://www.losttype.com/font/?name=homestead)
